@@ -2,3 +2,7 @@
 > Build a basic CLI application using Cobra and Viper in Go. </br>
 > Cobra is a library for creating powerful modern CLI applications  </br> 
 > Viper is a complete configuration solution for Go applications.
+
+## Design
+
+![Screenshot of the CLI](design.png)
